@@ -18,7 +18,7 @@ import java.io.File;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
-
+//来自https://github.com/sanjogshrestha/ListViewCamera
     CustomImageAdapter customImageAdapter;
     ArrayList<GetSet> getSets;
     ListView listView;
