@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CameraListView</string>
+    <string-array name="imageFor">
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+    </string-array>
+</resources>
